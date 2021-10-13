@@ -1,9 +1,0 @@
-
-public class Exercicios {
-
-	public static void main(String[] args) {
-		int dia = 4;
-		int outroDia = 4 + dia;
-		System.out.println(outroDia);
-	}
- }
